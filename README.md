@@ -85,6 +85,6 @@ As search and discovery shift toward **LLM-powered experiences**, traditional SE
 
 <div align="center">
 
-⭐ From [GEO-SEO](https://github.com/GEO-SEO) — Building the future of AI Visibility
+⭐ From [here](https://dageno.ai/) — Building the future of AI Visibility
 
 </div>
