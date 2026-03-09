@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Dageno AI Dashboard](https://raw.githubusercontent.com/GEO-SEO/GEO-SEO/main/dageno-dashboard.png)
+[![Dageno AI Dashboard](https://raw.githubusercontent.com/GEO-SEO/GEO-SEO/main/dageno-dashboard.png)](https://dageno.ai/)
 
 </div>
 
