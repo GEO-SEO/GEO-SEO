@@ -4,6 +4,12 @@
 
 **Asian Founder | Marathon Runner | AI SaaS Builder**
 
+</div>
+
+---
+
+## 🖥️ Dageno AI Platform
+
 <div align="center">
 
 ![Dageno AI Dashboard](https://raw.githubusercontent.com/GEO-SEO/GEO-SEO/main/dageno-dashboard.png)
