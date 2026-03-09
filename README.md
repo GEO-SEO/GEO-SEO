@@ -62,8 +62,6 @@ As search and discovery shift toward **LLM-powered experiences**, traditional SE
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GEO-SEO&show_icons=true&theme=light&hide_border=true&bg_color=ffffff)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEO-SEO&theme=light&hide_border=true&background=FFFFFF)
 
 </div>
