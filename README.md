@@ -18,7 +18,7 @@
 
 ## 🏃‍♂️ About Me
 
-I'm an Asian founder who loves marathons, the gym, and Hyrox 🏃‍♂️💪. Over the last few years, my team and I have focused on **"data + automation"** and built two SaaS products that scaled to **$10M+ ARR**.
+I'm an Asian founder who loves marathons(PB 2:59:01 Chicago), the gym, and Hyrox 🏃‍♂️💪. Over the last few years, my team and I have focused on **"data + automation"** and built two SaaS products that scaled to **$10M+ ARR**.
 
 My new project: **Dageno.ai** — is an AI Visibility Optimization platform.
 
