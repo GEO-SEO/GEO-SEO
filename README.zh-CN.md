@@ -25,93 +25,43 @@ Explore all repos / 查看全部项目: [github.com/dageno-agents](https://githu
 
 <!-- DAGENO_AGENT_NAV_END -->
 
-# 👋 Hello, I'm Tim
+# GEO-SEO 中文说明
 
-<div align="center">
+> Tim 的公开主页，用来介绍 Dageno、AI Visibility Optimization 和相关项目入口。
 
-**Asian Founder | Marathon Runner | AI SaaS Builder**
+## 它解决什么问题
 
-</div>
+- 这个仓库更像个人和品牌主页，不是某一个具体工具。
+- 它适合作为 GitHub 访问者了解 Dageno 背景、创始人信息和项目矩阵的入口。
 
----
+## 什么时候用它
 
-<div align="center">
+- 你想了解 Dageno 背后的产品和团队。
+- 你想从个人主页跳转到 Dageno 或其他公开项目。
+- 你想给中文访问者一个更直接的介绍入口。
 
-[![Dageno AI Dashboard](https://raw.githubusercontent.com/GEO-SEO/GEO-SEO/main/dageno-dashboard.png)](https://dageno.ai/)
+## 和相邻项目有什么区别
 
-</div>
+- 它是“人和品牌入口”。
+- 其他 `dageno-agents` 仓库是具体工具、技能或工作流。
 
----
+## 主要输出
 
-## 🏃‍♂️ About Me
+- founder profile
+- Dageno introduction
+- project links
+- contact links
 
-I'm an Asian founder who loves marathons(PB 2:59:01 Chicago), the gym, and Hyrox 🏃‍♂️💪. Over the last few years, my team and I have focused on **"data + automation"** and built two SaaS products that scaled to **$10M+ ARR**.
+## 快速开始
 
-My new project: **Dageno.ai** — is an AI Visibility Optimization platform.
+1. 阅读主页介绍。
+2. 通过项目导航进入具体工具仓库。
+3. 通过 Dageno 链接了解产品。
 
----
+## 给中文读者的说明
 
-## 🚀 Dageno AI
+这是当前公开仓库的中文本地化入口。英文 README.md 仍然保留更完整的原始说明、命令细节和历史上下文；中文版本优先帮助国内用户快速理解这个项目是做什么的、什么时候该用、以及它和其他 Dageno Agent 项目的区别。
 
-<div align="center">
+## License
 
-[![Dageno AI](https://img.shields.io/badge/-Dageno_AI-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://dageno.ai)
-
-</div>
-
-Dageno AI helps brands be found by AI — from **visibility monitoring** and **opportunity discovery**, to **automated content generation**, **UGC amplification** (Reddit, LinkedIn), **authoritative backlink management**, and a **closed-loop marketing workflow** that turns insights into action.
-
-### Why We Built It
-
-As search and discovery shift toward **LLM-powered experiences**, traditional SEO isn't enough. Brands need a single platform to:
-
-- Monitor how they appear across AI engines
-- Spot tactical opportunities
-- Execute at scale
-
----
-
-## 🛠️ What I'm Working On
-
-<div align="center">
-
-| Focus Area | Description |
-|------------|-------------|
-| 🤖 AI Visibility | Monitoring brand presence across AI engines |
-| 📊 Data Automation | Building scalable data-driven workflows |
-| 📱 Growth Systems | Product-led growth & SaaS scaling |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GEO-SEO&theme=light&hide_border=true&background=FFFFFF)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![X/Twitter](https://img.shields.io/badge/-X/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tim_geo_seo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-geo/)
-[![Product Hunt](https://img.shields.io/badge/-Product_Hunt-DA5A43?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@tim_dageno_ai)
-[![V2EX](https://img.shields.io/badge/-V2EX-0078D4?style=for-the-badge&logo=v2ex&logoColor=white)](https://www.v2ex.com/member/dudulhc)
-[![Xiaohongshu](https://img.shields.io/badge/-Xiaohongshu-FF2442?style=for-the-badge)](https://xhslink.com/m/2EkHEtLJe1G)
-[![Jike](https://img.shields.io/badge/-Jike-FFD100?style=for-the-badge&logo=jike&logoColor=black)](https://okjk.co/CAeB60)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ From [here](https://dageno.ai/) — Building the future of AI Visibility
-
-</div>
+请参考英文 README 和仓库内的 LICENSE 文件。
